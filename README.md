@@ -5,7 +5,7 @@ this was part of the odin project
 
 Its a simple Html and CSS . Cloning  the intuit page.
 
+Project: INTUIT CLONE
+![sdf](https://user-images.githubusercontent.com/39114029/189740238-dbb6080d-b998-437f-b05b-e1ab388874cb.png)
+
 Project URL: https://nifty-jones-4f1998.netlify.app/
-
-
-                   ![sdf](https://user-images.githubusercontent.com/39114029/189740238-dbb6080d-b998-437f-b05b-e1ab388874cb.png)
